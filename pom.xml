@@ -20,14 +20,14 @@
       <uniqueVersion>false</uniqueVersion>
       <id>mtechapp-releases</id>
       <name>mtechapp-releases</name>
-      <url>http://ec2-3-21-92-220.us-east-2.compute.amazonaws.com:8081/repository/mtechapp-releases/</url>
+      <url>http://ip-172-31-32-194.us-east-2.compute.internal:8081/repository/mtechapp-releases/</url>
       <layout>default</layout>
     </repository>
     <snapshotRepository>
       <uniqueVersion>true</uniqueVersion>
       <id>mtechapp-snapshots</id>
       <name>mtechapp-snapshots</name>
-      <url>http://ec2-3-21-92-220.us-east-2.compute.amazonaws.com:8081/repository/mtechapp-snapshots/</url>
+      <url>http://ip-172-31-32-194.us-east-2.compute.internal:8081/repository/mtechapp-snapshots/</url>
       <layout>legacy</layout>
     </snapshotRepository>
  </distributionManagement>
