@@ -7,6 +7,16 @@
   <version>2.0</version>
   <name>mtech-app</name>
   <url>http://maven.apache.org</url>
+   <repositories>
+    <repository>
+      <id>mtech-group</id>
+      <url>http://ec2-3-21-92-220.us-east-2.compute.amazonaws.com:8081/repository/mtech-group/</url>
+    </repository>
+     <repository>
+      <id>maven-public</id>
+       <url>http://maven.apache.org</url>
+    </repository>
+  </repositories>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
