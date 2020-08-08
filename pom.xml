@@ -10,7 +10,7 @@
    <repositories>
     <repository>
       <id>mtech-group</id>
-      <url>http://ec2-3-21-92-220.us-east-2.compute.amazonaws.com:8081/repository/mtech-group/</url>
+      <url>http://ip-172-31-32-194.us-east-2.compute.internal:8081/repository/mtech-group/</url>
     </repository>
      <repository>
       <id>maven-public</id>
